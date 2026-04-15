@@ -1,0 +1,1069 @@
+16:35:18.726 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\AppData\Local\Temp\testng-eclipse--1684180065\testng-customsuite.xml"
+16:35:18.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:35:18.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:35:18.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:18.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:18.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+16:35:19.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+16:35:19.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:19.017 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:19.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:35:19.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:35:19.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--1684180065\testng-customsuite.xml
+
+16:35:19.048 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+16:35:19.302 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@30b19518: 76 ms
+16:35:19.322 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@301ec38b: 20 ms
+16:35:19.335 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@241e8ea6: 12 ms
+16:35:19.343 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7ca33c24: 8 ms
+16:35:19.353 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1b765a2c: 10 ms
+16:35:19.353 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e8e8225: 0 ms
+16:36:37.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:36:37.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.711 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.711 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.711 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.711 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.714 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.719 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+16:36:37.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+16:36:37.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:37.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:37.749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse-304845867\testng-customsuite.xml
+
+16:36:37.766 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+16:36:38.055 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6ad59d92: 82 ms
+16:36:38.078 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@c5dc4a2: 23 ms
+16:36:38.101 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4dc8caa7: 22 ms
+16:36:38.115 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@41dd05a: 14 ms
+16:36:38.141 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18920cc: 25 ms
+16:36:38.142 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2807bdeb: 0 ms
+16:41:19.077 [main] INFO  org.testng.internal.Utils - [Warning] The regular expression "signUpTest" didn't match any method in class testCases.TC_001_AccountRegistrationTest
+16:41:19.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:41:19.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:41:19.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:41:19.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+16:41:19.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:41:19.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:41:19.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:41:19.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--632957413\testng-customsuite.xml
+
+16:41:19.197 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+16:41:24.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+16:41:25.775 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+16:41:26.962 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2fb5fe30: 68 ms
+16:41:26.977 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@34237b90: 15 ms
+16:41:26.986 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@469d003c: 9 ms
+16:41:26.994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2234078: 8 ms
+16:41:27.004 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2e1792e7: 10 ms
+16:41:27.005 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6719a5b8: 0 ms
+16:42:26.405 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.411 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.411 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:42:26.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+16:42:26.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:42:26.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+16:42:26.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:42:26.442 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:42:26.449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--105173868\testng-customsuite.xml
+
+16:42:26.465 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+16:42:29.979 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+16:42:30.972 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+16:42:37.056 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+16:42:37.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+16:42:38.265 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+16:42:38.952 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4aac85fa: 73 ms
+16:42:38.954 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1e6308a9: 1 ms
+16:42:38.964 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@703feacd: 9 ms
+16:42:38.970 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72209d93: 6 ms
+16:42:38.978 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a4d7f76: 7 ms
+16:42:38.979 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10ec523c: 1 ms
+16:43:23.778 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\AppData\Local\Temp\testng-eclipse--2114439893\testng-customsuite.xml"
+16:43:23.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:43:23.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:43:23.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:23.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:23.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:23.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:23.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:23.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:23.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:43:23.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+16:43:24.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:43:24.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:43:24.008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:43:24.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+16:43:24.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:43:24.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:43:24.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--2114439893\testng-customsuite.xml
+
+16:43:24.044 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+16:43:27.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+16:43:28.318 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+16:43:30.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+16:43:30.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+16:43:31.244 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+16:43:31.871 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@66bfd864: 85 ms
+16:43:31.872 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6079cf5: 1 ms
+16:43:31.881 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@68809cc7: 9 ms
+16:43:31.889 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@9a7a808: 8 ms
+16:43:31.897 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@30135202: 8 ms
+16:43:31.897 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a4d7f76: 0 ms
+16:44:03.515 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\AppData\Local\Temp\testng-eclipse--1568804656\testng-customsuite.xml"
+16:44:03.714 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.716 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:44:03.717 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.717 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.719 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.719 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:44:03.731 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+16:44:03.732 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.732 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.733 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.733 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.740 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.748 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+16:44:03.749 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:44:03.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:44:03.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--1568804656\testng-customsuite.xml
+
+16:44:03.775 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+16:44:04.018 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@447a020: 71 ms
+16:44:04.036 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b3e12b5: 18 ms
+16:44:04.047 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@39a8312f: 11 ms
+16:44:04.056 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6ff65192: 8 ms
+16:44:04.077 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2ceb80a1: 20 ms
+16:44:04.077 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b45dcb8: 0 ms
+17:26:37.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\MasterSuite.xml"
+17:26:38.152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\MasterSuite.xml
+
+17:26:41.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+17:26:42.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+17:26:46.403 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+17:26:47.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+17:26:47.731 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+17:27:05.547 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\MasterSuite.xml"
+17:27:05.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\MasterSuite.xml
+
+17:27:16.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+17:27:17.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+17:27:19.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+17:27:20.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+17:27:20.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+17:39:52.863 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\parallel.xml"
+17:41:16.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\parallel.xml"
+17:41:16.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\parallel.xml
+
+17:43:46.485 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\parallel.xml"
+17:43:46.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\parallel.xml
+
+17:43:53.188 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+17:43:54.376 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+17:43:57.001 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+17:43:58.474 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+17:44:01.786 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+17:44:01.914 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+17:44:02.749 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+17:44:02.916 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+17:44:03.416 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+17:44:03.432 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+17:44:05.835 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+17:44:06.653 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+17:44:09.871 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+17:44:10.216 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+17:44:10.589 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+18:35:43.463 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+18:35:43.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:37:21.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:40:30.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:41:30.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:41:56.307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:42:42.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:43:43.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:44:39.585 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:44:44.139 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+18:44:45.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+18:44:52.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+18:44:52.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+18:45:03.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+18:51:27.241 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:51:30.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+18:51:31.615 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+18:51:34.543 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+18:51:35.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+18:51:35.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+18:52:30.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+18:52:34.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+18:52:35.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+18:52:37.401 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+18:52:37.955 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+18:52:38.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+00:43:29.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:44:10.375 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:44:15.667 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:44:16.811 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:46:12.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:46:16.288 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:46:17.719 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:46:41.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:46:45.139 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:46:45.959 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:53:42.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:53:46.123 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:55:40.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:55:43.661 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:55:54.512 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:57:28.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:57:31.870 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:57:32.757 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:57:33.705 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+11:01:31.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:04:31.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:34:55.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:35:35.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:36:49.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:45:19.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:45:24.347 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+11:45:24.966 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+11:45:26.311 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+11:45:26.321 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+11:57:57.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:58:03.204 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+11:58:03.808 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+11:58:05.248 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+11:58:25.277 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+11:59:19.994 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:59:25.659 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+11:59:26.355 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+11:59:27.327 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+11:59:28.526 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:06:18.453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:06:24.733 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:06:25.933 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:06:26.793 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:06:32.332 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:06:32.340 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:06:32.849 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:06:52.873 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:10:10.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:10:16.215 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:10:16.723 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:10:17.519 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:10:23.793 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:10:23.801 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:10:24.323 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:10:44.367 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:12:37.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:12:42.538 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:12:43.028 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:12:43.779 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:12:49.304 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:12:49.306 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:12:49.313 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:12:49.794 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:13:09.882 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:13:09.882 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:13:09.882 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:18:50.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:18:54.923 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:18:55.792 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:19:02.828 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:19:02.829 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:19:02.835 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:19:22.874 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:19:22.874 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:20:59.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:21:03.731 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:21:04.170 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:21:05.030 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:21:10.533 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:21:10.533 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:21:10.539 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:21:30.571 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:21:30.571 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:21:30.571 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:24:11.662 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:24:16.186 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:24:16.605 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:24:17.517 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:24:23.042 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:24:23.042 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:24:23.048 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:24:43.489 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:24:43.489 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:24:43.489 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:27:22.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:27:27.493 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:27:28.842 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:27:28.844 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:27:34.350 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:27:34.351 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:27:34.357 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:27:54.843 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:27:54.843 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:27:54.843 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:30:21.400 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:30:26.314 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:30:28.332 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:30:28.334 [main] INFO  testCases.TC_003_LoginDDT - login successfull
+12:30:33.799 [main] INFO  testCases.TC_003_LoginDDT - logout successfull
+12:30:33.799 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:30:33.799 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:30:33.799 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:30:54.331 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:30:54.332 [main] INFO  testCases.TC_003_LoginDDT - login unsuccessfull
+12:30:54.332 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:30:54.332 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:33:28.248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:33:33.370 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:33:34.879 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:33:34.880 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:33:34.880 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+12:33:40.353 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+12:33:40.353 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:33:40.353 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:33:40.354 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:33:40.360 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:34:00.770 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:34:00.771 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:34:00.771 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:34:00.771 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:34:00.771 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:34:00.771 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:35:29.695 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:35:34.214 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:35:35.905 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:35:35.905 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:35:35.906 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+12:35:41.389 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+12:35:41.389 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:35:41.389 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:35:41.395 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:36:01.800 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:36:01.801 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:36:01.801 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:36:01.801 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:36:01.801 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:54:17.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:54:22.783 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:54:24.347 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:54:24.348 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:54:24.348 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+12:54:29.827 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+12:54:29.827 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:54:29.828 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:54:29.833 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:54:50.240 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:54:50.240 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:54:50.240 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:54:50.240 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:54:50.240 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:54:50.243 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:55:10.679 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:55:10.685 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:55:31.260 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:55:31.260 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:55:31.260 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:55:31.260 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:55:31.260 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:58:32.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:58:36.845 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:58:38.297 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:58:38.299 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+12:58:38.299 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+12:58:43.763 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+12:58:43.763 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:58:43.763 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:58:43.771 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:59:04.204 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:59:04.204 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:59:04.204 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:59:04.204 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:59:04.204 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+12:59:04.209 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:59:24.651 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+12:59:24.651 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+12:59:24.651 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+12:59:24.651 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+12:59:24.657 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+12:59:45.094 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+12:59:45.094 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+12:59:45.094 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+12:59:45.094 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+12:59:45.096 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+13:33:46.509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:34:12.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:36:48.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:37:26.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:38:20.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:39:51.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:39:56.433 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:42:18.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:42:22.219 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:43:48.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:43:53.267 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+13:43:54.834 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+13:43:54.834 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+13:43:54.834 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+13:44:00.322 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+13:44:00.323 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+13:44:00.323 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+13:44:00.330 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+13:44:20.761 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+13:44:20.761 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+13:44:20.762 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+13:44:20.762 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+13:44:20.762 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+13:44:20.766 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+13:44:41.196 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+13:44:41.196 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+13:44:41.196 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+13:44:41.196 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+13:44:41.201 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+13:45:01.613 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+13:45:01.613 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+13:45:01.613 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+13:45:01.613 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+13:45:01.613 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+14:01:05.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+14:01:09.911 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:01:11.024 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:01:11.863 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:01:21.851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+14:01:25.776 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:01:26.731 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:01:27.483 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:01:42.361 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+14:01:45.984 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:01:46.940 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:01:47.768 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+15:08:29.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:08:29.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:08:29.588 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+15:08:29.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+15:08:29.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:08:29.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:08:29.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:08:29.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--949147274\testng-customsuite.xml
+
+15:08:29.645 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+15:08:31.024 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@591fd34d: 80 ms
+15:08:31.047 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@69b2f8e5: 22 ms
+15:08:31.059 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@77128dab: 12 ms
+15:08:31.070 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4fe01803: 10 ms
+15:08:31.080 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@599f571f: 10 ms
+15:08:31.080 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7b60c3e: 0 ms
+15:09:10.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:09:16.879 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:09:20.519 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:09:20.519 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:09:20.519 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:09:26.066 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:09:26.066 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:09:26.066 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:09:26.080 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:09:46.157 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:10:06.224 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:22:08.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:22:13.468 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:22:15.695 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:22:15.695 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:22:15.695 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:22:21.345 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:22:21.345 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:22:21.345 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:22:21.356 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:22:42.048 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:22:42.048 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:22:42.048 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:22:42.048 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:22:42.048 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:22:42.052 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:22:48.935 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:23:41.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:23:46.236 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:23:48.073 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:23:48.075 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:23:48.075 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:23:54.154 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:23:54.157 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:23:54.234 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:23:54.241 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:24:14.927 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:24:14.927 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:24:14.927 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:24:14.927 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:24:15.024 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:24:15.032 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:24:35.945 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:24:35.952 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:24:35.952 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:24:35.952 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:24:35.959 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:27:09.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:27:14.697 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:27:16.584 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:27:16.584 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:27:16.584 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:27:22.126 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:27:22.126 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:27:22.205 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:27:22.213 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:27:42.814 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:27:42.814 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:27:42.815 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:27:42.815 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:27:42.888 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:27:42.898 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:28:03.790 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:28:03.790 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:28:03.791 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:28:03.791 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:28:03.891 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:28:03.906 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:28:05.280 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:33:18.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:18.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:18.991 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+15:33:19.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+15:33:19.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:33:19.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:33:19.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\AppData\Local\Temp\testng-eclipse--1237943221\testng-customsuite.xml
+
+15:33:19.039 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+15:33:20.361 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@61e45f87: 70 ms
+15:33:20.378 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6331250e: 17 ms
+15:33:20.390 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@63429932: 11 ms
+15:33:20.398 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@13d186db: 8 ms
+15:33:20.407 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7b60c3e: 9 ms
+15:33:20.407 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3fbfa96: 0 ms
+15:33:40.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:33:45.480 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:33:47.005 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:33:47.005 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:33:47.005 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:33:52.592 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:33:52.592 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:33:52.677 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:33:52.690 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:34:13.374 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:34:13.376 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:34:13.376 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:34:13.376 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:34:13.446 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:34:13.451 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:34:34.280 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:34:34.280 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:34:34.280 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:34:34.280 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:34:34.382 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:34:34.394 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:34:35.921 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:36:31.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:36:36.247 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:36:37.788 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:36:37.788 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:36:37.788 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:36:43.316 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:36:43.316 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:36:43.390 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:36:43.400 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:37:04.074 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:37:04.077 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:37:04.077 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:37:04.077 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:37:04.175 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:37:04.183 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:37:25.103 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:37:25.109 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:37:25.109 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:37:25.109 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:37:25.220 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:37:25.226 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:37:26.544 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:37:32.058 [main] INFO  testCases.TC_003_LoginDDT - validation successfull even for invalid credentials
+15:37:32.058 [main] INFO  testCases.TC_003_LoginDDT - which means login successfull even for invalid credentials
+15:37:32.058 [main] INFO  testCases.TC_003_LoginDDT - test case failed badly
+15:37:32.134 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:39:09.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+15:39:14.147 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:39:15.836 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:39:15.837 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:39:15.837 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:39:21.405 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:39:21.405 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:39:21.470 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:39:21.480 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:39:42.140 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:39:42.140 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:39:42.140 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:39:42.140 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:39:42.228 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:39:42.233 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:40:03.119 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:40:03.119 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:40:03.119 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:40:03.119 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:40:03.218 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:40:03.222 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:40:04.706 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:40:10.219 [main] INFO  testCases.TC_003_LoginDDT - validation successfull even for invalid credentials
+15:40:10.219 [main] INFO  testCases.TC_003_LoginDDT - which means login successfull even for invalid credentials
+15:40:10.219 [main] INFO  testCases.TC_003_LoginDDT - test case failed badly
+15:40:58.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+15:41:03.240 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:41:04.753 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:41:04.753 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:41:04.755 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:41:10.310 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:41:10.311 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:41:10.379 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:41:10.387 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:41:31.096 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:41:31.096 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:41:31.096 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:41:31.096 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:41:31.198 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:41:31.204 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:41:52.098 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:41:52.098 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:41:52.098 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:41:52.098 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:41:52.110 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:43:45.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+15:43:50.225 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:43:51.800 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:43:51.800 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+15:43:51.800 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+15:43:57.387 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+15:43:57.387 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:43:57.453 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:43:57.462 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:44:18.234 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:44:18.234 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+15:44:18.234 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+15:44:18.234 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+15:44:18.309 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:44:18.313 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:44:38.989 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+15:44:38.989 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+15:44:38.989 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+15:44:38.989 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+15:44:39.069 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+15:44:39.072 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+15:44:41.019 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+15:44:46.515 [main] INFO  testCases.TC_003_LoginDDT - validation successfull even for invalid credentials
+15:44:46.515 [main] INFO  testCases.TC_003_LoginDDT - which means login successfull even for invalid credentials
+15:44:46.517 [main] INFO  testCases.TC_003_LoginDDT - test case failed badly
+15:44:46.565 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+00:01:55.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:02:02.516 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+00:02:05.804 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+00:02:05.804 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+00:02:05.804 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+00:02:11.289 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+00:02:11.290 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+00:02:11.368 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+00:02:11.378 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+00:02:32.316 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+00:02:32.316 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+00:02:32.316 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+00:02:32.316 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+00:02:32.437 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+00:02:32.443 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+00:02:53.445 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+00:02:53.445 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+00:02:53.445 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+00:02:53.445 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+00:02:53.461 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+08:55:12.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+08:55:18.556 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+08:55:19.616 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+08:55:22.611 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+08:56:37.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+08:56:41.498 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+08:56:42.604 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+08:56:43.474 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+08:58:41.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+08:58:46.689 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+08:58:48.356 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+08:58:48.356 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+08:58:48.356 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+08:58:53.793 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+08:58:53.794 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+08:58:53.864 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+08:58:53.889 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+08:59:14.554 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+08:59:14.554 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+08:59:14.554 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+08:59:14.554 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+08:59:14.637 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+08:59:14.643 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+08:59:35.591 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+08:59:35.591 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+08:59:35.591 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+08:59:35.591 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+08:59:35.762 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+09:02:32.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+09:02:36.766 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+09:02:37.763 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+09:04:02.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+09:04:06.303 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+09:04:07.356 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+09:13:00.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\test-output\testng-failed.xml
+
+09:13:05.284 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+09:13:07.807 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+09:13:09.415 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+18:10:16.487 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+18:10:18.668 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+18:10:23.189 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+18:34:47.070 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+18:34:53.452 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+18:34:55.076 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+18:34:56.230 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+18:35:06.968 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:35:09.454 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+18:35:09.456 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+18:35:09.456 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+18:35:15.192 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+18:35:15.194 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+18:35:15.292 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+18:35:15.297 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:35:36.310 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+18:35:36.310 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+18:35:36.310 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+18:35:36.310 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+18:35:36.462 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+18:35:36.468 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:35:59.619 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+18:35:59.619 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+18:35:59.619 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+18:35:59.619 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+18:35:59.967 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:45:44.754 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+18:45:51.085 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+18:45:53.053 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+18:45:54.305 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+18:46:05.017 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:46:09.410 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+18:46:09.410 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+18:46:09.410 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+18:46:15.373 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:46:15.395 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:46:15.412 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+18:46:48.281 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+18:46:49.705 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+18:46:50.662 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+19:13:32.541 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+19:13:33.618 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+19:13:34.502 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+19:14:22.955 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+19:14:23.990 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+19:14:24.976 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+23:48:53.375 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+23:48:54.422 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+23:49:43.995 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+23:49:44.991 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:07:30.220 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:07:31.154 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull

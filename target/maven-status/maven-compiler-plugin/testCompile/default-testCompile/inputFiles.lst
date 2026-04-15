@@ -1,0 +1,13 @@
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\AgentPage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\BasePage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\LoginPage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\OTPVerificationPage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\RegistrationPage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\pageObjects\SetPasswordPage.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\testBase\BaseClass.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\testCases\TC_002_AccountLoginTest.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\testCases\TC_003_LoginDDT.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\utilities\DataProviders.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\utilities\ExcelUtility.java
+C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\src\test\java\utilities\ExtentReportManager.java

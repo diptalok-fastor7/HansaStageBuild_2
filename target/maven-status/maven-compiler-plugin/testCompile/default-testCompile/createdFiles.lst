@@ -1,0 +1,13 @@
+testCases\TC_003_LoginDDT.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\RegistrationPage.class
+pageObjects\OTPVerificationPage.class
+pageObjects\LoginPage.class
+testCases\TC_002_AccountLoginTest.class
+pageObjects\AgentPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+testCases\TC_001_AccountRegistrationTest.class
+pageObjects\SetPasswordPage.class
+utilities\DataProviders.class

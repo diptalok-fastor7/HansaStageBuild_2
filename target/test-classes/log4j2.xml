@@ -19,7 +19,7 @@
     </Appenders>
 
     <Loggers>
-        <Root level="Info">
+        <Root level="Debug">
             <!-- <AppenderRef ref="Console log"/> -->
             <AppenderRef ref="XML File"/>
         </Root>

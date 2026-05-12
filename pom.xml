@@ -25,6 +25,7 @@
 						<suiteXmlFiles>
 							<suiteXmlFile>mastersuite.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>groupings.xml</suiteXmlFile>-->
+							<!-- <suiteXmlFile>parallel.xml</suiteXmlFile>-->
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>

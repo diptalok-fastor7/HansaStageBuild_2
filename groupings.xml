@@ -3,7 +3,8 @@
 <suite name="Suite">
 	<groups>
 		<run>
-			<include name="Datadriven"></include>
+			<include name="Master"></include>
+			<include name="Sanity"></include>
 		</run>
 	</groups>
 

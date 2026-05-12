@@ -16,9 +16,13 @@ public class TC_002_AccountLoginTest extends BaseClass {
 
 			RegistrationPage rp = new RegistrationPage(driver);
 			rp.clickLoginCTA();
+			//Thread.sleep(10000);
+			waitTillFullPageLoad();
+			waitTillElementLoad();
 			LoginPage lp = new LoginPage(driver);
 			String Email = prop.getProperty("email");
 			String Password = prop.getProperty("password");
+			lp.clearText(null);
 			lp.setEmail(Email);
 			lp.setPassword(Password);
 			lp.login();

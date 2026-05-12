@@ -1067,3 +1067,1014 @@
 23:49:44.991 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
 00:07:30.220 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
 00:07:31.154 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:04:58.093 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:04:59.249 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:05:03.089 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+00:30:56.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:31:02.999 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:38:16.686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:38:20.406 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:38:28.925 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:38:35.312 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+00:45:00.504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:45:07.136 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:45:37.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+00:45:41.577 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:45:49.094 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:45:49.939 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+00:51:41.522 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:51:49.737 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:51:50.530 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+00:53:19.580 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+00:53:27.586 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+00:53:28.487 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+12:26:31.908 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:27:57.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:28:03.250 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:28:38.401 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+12:28:45.250 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+12:29:21.733 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:29:31.323 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+12:29:32.959 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+12:30:11.670 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:35:20.133 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:35:29.182 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+12:35:30.501 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+12:45:59.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:46:08.909 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:48:41.999 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:49:32.381 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:49:36.047 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+12:49:37.387 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+12:52:06.030 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:54:35.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:54:42.668 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:56:05.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:56:12.799 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:03:39.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:03:44.999 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:08:01.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:08:04.383 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:08:07.366 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:08:08.721 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:08:31.085 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:09:24.189 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:14:37.048 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:29:19.183 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:29:22.311 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:29:23.393 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:34:26.833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:34:33.793 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:36:45.762 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:37:15.915 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:37:18.528 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:37:19.374 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:40:15.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:40:21.160 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:40:56.668 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:40:59.387 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:41:01.967 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:41:02.874 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:41:30.052 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:42:06.077 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:42:09.054 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:42:09.933 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:42:28.739 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:43:08.034 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:43:31.487 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:43:35.040 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:43:36.016 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:44:19.149 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:44:37.968 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:44:41.887 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:44:42.782 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:10:20.089 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:20:45.291 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:21:20.556 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:23:04.911 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:23:27.464 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:23:30.056 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:23:30.943 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:35:45.870 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:35:49.402 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:35:51.288 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:41:37.734 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:42:03.556 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:42:24.989 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:42:44.462 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:43:07.361 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:43:31.438 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:44:32.443 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:44:59.386 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:45:55.017 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:47:01.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+14:47:07.765 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:48:00.493 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:51:55.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+14:51:58.220 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:52:01.480 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:52:02.410 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:53:44.395 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:54:11.705 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:54:14.351 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:54:15.311 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:54:36.491 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:54:55.878 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:55:20.786 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:55:37.685 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:56:01.686 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:56:29.900 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:56:50.715 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:58:06.350 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:58:28.307 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:58:59.958 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:59:16.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+14:59:21.252 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:59:22.891 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:59:24.082 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:59:48.806 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+15:02:19.446 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+15:04:39.572 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+10:14:14.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:14:29.994 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:14:38.800 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:14:39.733 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:14:39.752 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest
+10:14:39.756 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:14:39.764 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started failed
+10:15:05.151 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:15:22.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:15:42.956 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:16:03.199 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:16:23.216 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest
+10:16:23.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:16:43.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started failed
+10:23:34.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:23:48.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:23:50.230 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:23:50.313 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:23:50.339 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest
+10:23:50.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:23:50.370 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started failed
+10:28:08.402 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+10:28:08.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:28:14.756 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:28:27.372 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:28:27.372 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+10:28:27.764 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:28:27.765 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+10:28:27.781 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest
+10:28:27.782 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+10:28:27.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:28:27.797 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started failed
+10:32:45.814 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+10:32:46.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:32:50.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:33:10.788 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:33:10.788 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+10:33:11.197 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:33:11.197 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+10:33:11.214 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest
+10:33:11.215 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+10:33:11.221 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:33:11.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started failed
+10:38:11.884 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+10:38:12.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+10:38:12.888 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:12.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:12.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.450 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.574 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.583 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.615 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.647 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.684 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.696 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.710 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.734 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.747 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.759 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.789 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.805 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.818 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.840 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.861 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.879 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.900 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:13.910 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:13.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:13.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:13.920 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:35.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+10:38:35.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+10:38:36.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:36.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:36.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:36.915 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.036 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.054 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.068 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.097 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.122 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.123 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.124 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.136 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.153 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.165 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.190 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.216 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.232 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.245 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.257 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.271 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.286 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.296 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.325 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.345 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.356 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.367 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:38:37.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:37.380 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:37.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:37.392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:27.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+10:41:27.632 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+10:41:28.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:28.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:28.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.156 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.322 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.366 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.403 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.453 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.471 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.482 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.518 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.557 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.588 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.619 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.650 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.665 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.679 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.705 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.735 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:29.746 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:29.747 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:29.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:29.756 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:41:55.824 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+10:41:56.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+10:42:10.238 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+10:42:18.372 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+10:42:18.372 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+10:42:18.914 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+10:42:18.914 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+10:42:18.931 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+10:42:18.931 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+10:42:18.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+10:42:18.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:16:17.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:16:17.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:17:30.353 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:17:30.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:17:36.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:17:38.386 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:17:45.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:17:46.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:17:46.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:17:46.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:17:46.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:27:41.259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:27:41.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:27:46.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:27:48.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:27:53.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:27:54.827 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:28:13.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:28:13.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:28:19.066 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:28:21.070 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:28:23.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:28:24.222 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:28:24.797 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:28:25.031 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:28:25.079 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:35:27.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:35:27.470 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:35:37.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:35:38.778 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+11:35:38.779 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+11:35:39.222 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+11:35:39.223 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+11:35:39.239 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+11:35:39.239 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+11:35:39.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:35:39.256 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:35:47.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:35:48.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:35:53.673 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:35:54.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:35:55.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:35:58.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:36:00.729 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:36:03.447 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:36:05.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:36:05.604 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:36:06.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:36:06.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:36:07.030 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:36:07.123 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:36:07.354 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:36:07.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:36:07.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:36:07.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:38:53.587 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:38:54.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:38:59.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:39:01.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:39:04.540 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:39:05.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:39:05.884 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:39:06.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:39:06.191 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:40:46.369 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:40:46.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:40:52.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:40:54.123 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:40:56.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:40:57.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:40:57.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:40:57.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:40:58.201 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:40:58.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:41:08.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:42:54.980 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:42:55.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:43:01.314 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:43:03.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:43:06.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:43:07.141 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:43:07.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:43:07.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:43:08.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:43:08.672 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:43:19.038 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:44:46.468 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:44:46.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:44:56.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:44:57.822 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+11:44:57.822 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+11:44:58.283 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+11:44:58.284 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+11:44:58.304 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+11:44:58.304 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+11:44:58.314 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:44:58.328 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:45:06.259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:45:07.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:45:13.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:45:15.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:45:17.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:45:18.325 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:45:18.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:45:19.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:45:19.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:45:19.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:45:30.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:47:41.850 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:47:42.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:47:52.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:47:54.206 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+11:47:54.208 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+11:47:54.677 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+11:47:54.678 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+11:47:54.697 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+11:47:54.697 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+11:47:54.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:47:54.715 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:48:02.725 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:48:03.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:48:13.441 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:48:14.489 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+11:48:14.489 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+11:48:14.931 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+11:48:14.931 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+11:48:14.947 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+11:48:14.947 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+11:48:14.953 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:48:14.966 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:48:22.570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:48:23.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:48:30.268 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:48:32.383 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:48:35.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:48:36.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:48:37.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:48:37.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:48:38.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:48:38.503 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:48:48.836 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:53:11.808 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:53:12.241 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:53:17.895 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:53:19.855 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:53:22.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:53:22.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:53:23.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:53:23.768 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:53:24.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:53:24.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:53:25.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+11:53:25.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+11:53:25.887 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+11:53:28.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+11:54:30.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:54:31.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+11:54:38.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:54:40.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:54:42.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:54:43.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:54:43.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:54:44.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:54:44.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:54:45.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:54:45.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+11:54:46.109 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+11:54:46.303 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+11:54:47.328 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:10:15.419 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:10:15.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+12:10:21.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:10:22.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:10:24.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:10:25.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:10:25.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:10:25.648 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:10:25.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:10:26.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:10:26.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:10:26.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:10:26.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:10:28.946 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:17:39.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:17:43.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:17:43.779 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:17:47.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:17:48.076 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:17:48.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:17:48.698 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:17:48.913 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:17:49.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:17:49.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:17:49.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:17:49.724 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:17:53.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:24:09.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:24:12.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:24:13.082 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:24:15.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:24:16.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:24:16.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:24:16.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:24:17.154 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:24:17.384 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:24:17.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:24:17.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:24:17.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:24:18.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:32:03.312 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:32:06.081 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:32:06.687 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:32:08.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:32:09.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:32:29.168 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:32:32.180 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:32:32.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:32:34.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:32:34.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:32:35.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:32:35.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:32:35.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:32:36.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:32:36.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:32:36.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:32:36.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:32:37.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:32:59.643 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:33:02.777 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:33:03.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:33:05.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:33:05.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:33:06.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:33:06.144 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:33:06.385 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:33:06.626 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:33:06.991 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:33:07.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:33:07.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:33:07.779 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:34:27.649 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:34:31.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+12:34:32.353 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+12:34:34.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+12:34:34.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+12:34:34.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+12:34:34.962 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+12:34:35.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+12:34:35.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+12:34:35.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+12:34:35.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+12:34:36.043 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+12:34:36.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+12:51:22.690 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+12:51:27.245 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+12:51:29.183 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+12:51:31.354 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:58:57.552 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+13:58:57.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+13:58:58.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.605 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.693 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.711 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.732 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.760 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.777 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.794 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.807 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.821 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.830 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.835 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.848 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.858 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.858 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.864 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.876 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.891 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:58:58.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:58:58.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:58:58.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:58:58.905 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+13:59:55.799 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+13:59:56.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml
+
+14:00:00.854 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+14:00:02.039 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+14:00:06.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+14:00:07.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+14:00:07.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+14:00:07.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+14:00:08.177 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+14:00:08.390 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+14:00:08.692 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+14:00:08.824 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+14:00:08.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+14:00:10.156 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+14:00:12.736 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:00:13.596 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:00:14.403 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:00:16.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:16.818 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:16.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:16.904 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:16.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:16.929 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:16.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:16.948 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:16.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:16.979 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:16.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:16.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:16.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.001 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.026 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.045 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.057 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.080 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.098 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.099 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.122 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.134 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:17.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:17.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:00:17.151 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:00:17.162 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:00:18.359 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+14:00:18.359 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+14:00:18.359 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+14:00:23.839 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+14:00:23.839 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+14:00:23.908 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+14:00:23.911 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:00:34.773 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+14:00:34.774 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+14:00:34.774 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+14:00:34.774 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+14:00:35.013 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+14:00:35.018 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:00:45.562 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+14:00:45.562 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+14:00:45.562 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+14:00:45.562 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+14:00:45.805 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:09:40.204 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\groupings.xml"
+14:09:43.353 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+14:09:43.888 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+14:09:46.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+14:09:46.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+14:09:47.325 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+14:09:47.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+14:09:47.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+14:09:47.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+14:09:48.135 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+14:09:48.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+14:09:48.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+14:09:49.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+14:09:51.281 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+14:09:51.993 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+14:09:52.679 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+14:09:55.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.447 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.545 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.568 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.586 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.611 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.630 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.641 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.646 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.657 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.664 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.682 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.683 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.690 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.700 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.706 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.717 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.717 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.723 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.729 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.736 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.743 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.751 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.763 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:55.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:55.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:55.778 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+14:09:55.785 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:09:57.018 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+14:09:57.018 [main] INFO  testCases.TC_003_LoginDDT - validation successfull
+14:09:57.018 [main] INFO  testCases.TC_003_LoginDDT - which means login also successfull
+14:10:02.408 [main] INFO  testCases.TC_003_LoginDDT - so logout successfull
+14:10:02.409 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+14:10:02.455 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+14:10:02.457 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:10:12.878 [main] INFO  testCases.TC_003_LoginDDT - for invalid credentials
+14:10:12.878 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull
+14:10:12.878 [main] INFO  testCases.TC_003_LoginDDT - which means login unsuccessfull
+14:10:12.878 [main] INFO  testCases.TC_003_LoginDDT - test case passed
+14:10:12.966 [main] INFO  testCases.TC_003_LoginDDT - finished TC_003_LoginDDT
+14:10:12.968 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+14:10:23.518 [main] INFO  testCases.TC_003_LoginDDT - for valid credentials
+14:10:23.518 [main] INFO  testCases.TC_003_LoginDDT - validation unsuccessfull for valid credentials
+14:10:23.518 [main] INFO  testCases.TC_003_LoginDDT - which means login also unsuccessfull for valid credentials
+14:10:23.518 [main] INFO  testCases.TC_003_LoginDDT - test case failed
+14:10:23.693 [main] INFO  testCases.TC_003_LoginDDT - started TC_003_LoginDDT
+13:23:16.093 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+13:23:20.717 [main] INFO  testCases.TC_002_AccountLoginTest - Started TC_002_AccountLoginTest
+13:23:21.629 [main] INFO  testCases.TC_002_AccountLoginTest - login successfull
+13:23:22.342 [main] INFO  testCases.TC_002_AccountLoginTest - Finshied TC_002_AccountLoginTest
+13:25:09.104 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+13:25:09.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml
+
+13:25:12.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+13:25:13.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+13:25:20.944 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+13:25:21.547 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+13:25:22.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+13:25:22.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+13:25:22.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+13:25:22.777 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+13:25:23.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+13:25:23.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+13:25:23.381 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+13:25:24.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest
+15:37:20.768 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+15:37:27.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+15:37:38.022 [main] ERROR testCases.TC_001_AccountRegistrationTest - signUpTest failed
+15:37:38.022 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug signUpTest method logs
+15:37:48.119 [main] ERROR testCases.TC_001_AccountRegistrationTest - verifcationOTPTest method failed
+15:37:48.119 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug verifcationOTPTest method logs
+15:37:58.161 [main] ERROR testCases.TC_001_AccountRegistrationTest - setPasswordTest method failed
+15:37:58.161 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug setPasswordTest method logs
+15:37:58.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+15:38:08.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding failed
+11:45:57.877 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dipta\eclipse-workspace\HansaStageBuild_2\mastersuite.xml"
+11:46:08.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started TC_001_AccountRegistrationTest
+11:46:11.436 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration done successfully
+11:46:21.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verification of OTP done successfully
+11:46:21.774 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password set successfully
+11:46:22.226 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding page arrived
+11:46:22.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding get started clicked successfully
+11:46:22.626 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company name entered successfully
+11:46:22.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding company details entered successfully
+11:46:23.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding average hiring details entered successfully
+11:46:23.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding hirirng tool entered successfully
+11:46:23.531 [main] INFO  testCases.TC_001_AccountRegistrationTest - onboarding steps completed successfully
+11:46:27.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationTest

@@ -4,6 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.OTPVerificationPage;
+import pageObjects.OnBoardingPage;
 import pageObjects.RegistrationPage;
 import pageObjects.SetPasswordPage;
 import testBase.BaseClass;
@@ -66,11 +67,47 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
 		
 		Assert.assertEquals(sp.getValidation(), "Let’s get started");
 		
-		logger.info("Finished TC_001_AccountRegistrationTest");
 		
 		} catch (Exception e) {
-			logger.error("setPasswordTest");
+			logger.error("setPasswordTest method failed");
 			logger.debug("debug setPasswordTest method logs");
+		}
+	}
+	
+	@Test(dependsOnMethods="setPasswordTest", groups = {"Sanity","Master"})
+	void onBoarding() {
+		try {
+			
+			logger.info("onboarding page arrived");
+			OnBoardingPage op = new OnBoardingPage(driver);
+			op.clickGetStarted();
+			logger.info("onboarding get started clicked successfully");
+			waitTillFullPageLoad();
+			op.companyName();
+			op.clickNext();
+			logger.info("onboarding company name entered successfully");
+			waitTillFullPageLoad();
+			op.companyAbout();
+			op.clickNext();
+			logger.info("onboarding company details entered successfully");
+			waitTillFullPageLoad();
+			op.clickNext();
+			waitTillFullPageLoad();
+			op.averageHiringDetail();
+			op.clickNext();
+			logger.info("onboarding average hiring details entered successfully");
+			waitTillFullPageLoad();
+			op.clickHiringTool();
+			logger.info("onboarding hirirng tool entered successfully");
+			op.clickNext();
+			logger.info("onboarding steps completed successfully");
+			
+			Assert.assertEquals(op.getValidation(), "Select an Agent to Start");
+
+			logger.info("Finished TC_001_AccountRegistrationTest");
+
+		} catch (Exception e) {
+			logger.info("onboarding failed");
 		}
 	}
 

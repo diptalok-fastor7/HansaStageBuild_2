@@ -23,6 +23,7 @@ public class LoginPage extends BasePage {
 	private WebElement msgValidation;
 	
 	public void setEmail(String email) {
+		clearText(txtEmail);
 		txtEmail.sendKeys(email);
 	}
 

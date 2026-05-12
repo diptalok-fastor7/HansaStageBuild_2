@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-14T09:13:00 IST" name="Failed suite [Suite]" finished-at="2026-04-14T09:13:10 IST" duration-ms="9197">
+  <suite started-at="2026-04-23T13:25:09 IST" name="Suite" finished-at="2026-04-23T13:25:26 IST" duration-ms="16841">
     <groups>
       <group name="Master">
-        <method signature="TC_002_AccountLoginTest.logInTest()[pri:0, instance:testCases.TC_002_AccountLoginTest@71e9ebae]" name="logInTest" class="testCases.TC_002_AccountLoginTest"/>
+        <method signature="TC_001_AccountRegistrationTest.signUpTest()[pri:1, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="signUpTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.verifcationOTPTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="verifcationOTPTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.setPasswordTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="setPasswordTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.onBoarding()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="onBoarding" class="testCases.TC_001_AccountRegistrationTest"/>
       </group> <!-- Master -->
-      <group name="Regression">
-        <method signature="TC_002_AccountLoginTest.logInTest()[pri:0, instance:testCases.TC_002_AccountLoginTest@71e9ebae]" name="logInTest" class="testCases.TC_002_AccountLoginTest"/>
-      </group> <!-- Regression -->
+      <group name="Sanity">
+        <method signature="TC_001_AccountRegistrationTest.signUpTest()[pri:1, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="signUpTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.verifcationOTPTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="verifcationOTPTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.setPasswordTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="setPasswordTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.onBoarding()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" name="onBoarding" class="testCases.TC_001_AccountRegistrationTest"/>
+      </group> <!-- Sanity -->
     </groups>
-    <test started-at="2026-04-14T09:13:00 IST" name="Test(failed)" finished-at="2026-04-14T09:13:10 IST" duration-ms="9197">
-      <class name="testCases.TC_002_AccountLoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_AccountLoginTest@71e9ebae]" started-at="2026-04-14T09:13:01 IST" name="setUp" finished-at="2026-04-14T09:13:05 IST" duration-ms="4081" status="PASS">
+    <test started-at="2026-04-23T13:25:09 IST" name="Test" finished-at="2026-04-23T13:25:26 IST" duration-ms="16841">
+      <class name="testCases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:09 IST" name="setUp" finished-at="2026-04-23T13:25:12 IST" duration-ms="3177" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +35,27 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="logInTest()[pri:0, instance:testCases.TC_002_AccountLoginTest@71e9ebae]" started-at="2026-04-14T09:13:05 IST" name="logInTest" finished-at="2026-04-14T09:13:09 IST" duration-ms="4185" status="PASS">
+        <test-method signature="signUpTest()[pri:1, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:12 IST" name="signUpTest" finished-at="2026-04-23T13:25:20 IST" duration-ms="7581" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logInTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_AccountLoginTest@71e9ebae]" started-at="2026-04-14T09:13:09 IST" name="tearDown" finished-at="2026-04-14T09:13:10 IST" duration-ms="628" status="PASS">
+        </test-method> <!-- signUpTest -->
+        <test-method signature="verifcationOTPTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:20 IST" name="verifcationOTPTest" finished-at="2026-04-23T13:25:21 IST" depends-on-methods="testCases.TC_001_AccountRegistrationTest.signUpTest" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifcationOTPTest -->
+        <test-method signature="setPasswordTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:21 IST" name="setPasswordTest" finished-at="2026-04-23T13:25:22 IST" depends-on-methods="testCases.TC_001_AccountRegistrationTest.verifcationOTPTest" duration-ms="925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPasswordTest -->
+        <test-method signature="onBoarding()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:22 IST" name="onBoarding" finished-at="2026-04-23T13:25:24 IST" depends-on-methods="testCases.TC_001_AccountRegistrationTest.setPasswordTest" duration-ms="1899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onBoarding -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@1fb669c3]" started-at="2026-04-23T13:25:24 IST" name="tearDown" finished-at="2026-04-23T13:25:26 IST" duration-ms="2173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_002_AccountLoginTest -->
-    </test> <!-- Test(failed) -->
-  </suite> <!-- Failed suite [Suite] -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
